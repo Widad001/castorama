@@ -1,3 +1,4 @@
 castorama-env/
 formation/
 .DS_Store
+dashboard/.streamlit
