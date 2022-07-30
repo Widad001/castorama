@@ -1,0 +1,45 @@
+.css-10xlvwk.e1fqkh3o3 {
+    background-color: #0075C4;
+    color: white;
+    padding-top: 50px;
+}
+
+.css-15tx938.effi0qh3 {
+    color: #FFFFFF;
+    margin-top: 50px;
+}
+
+div[data-testid='column'] div[data-testid="stVerticalBlock"] .element-container div[data-testid="stImage"] {
+    padding: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-height: 45vh;
+    max-height: 45vh;
+}
+
+div[id='tabs-1-tabpanel-1'] div[data-testid='column'] div[data-testid="stVerticalBlock"] .element-container div[data-testid="stImage"] {
+    min-height: 55vh;
+    max-height: 55vh;
+}
+
+div[data-testid='column'] div[data-testid="stVerticalBlock"] .element-container div[data-testid="stImage"] img {
+    object-fit: contain;
+    max-height: 100%;
+}
+h1 {
+    font-size: 200%;
+    text-align: center;
+}
+
+h2 {
+    color:#F8DE18;
+    font-size:800%;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
